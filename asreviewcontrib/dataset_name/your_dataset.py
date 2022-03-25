@@ -9,7 +9,7 @@ class YourDataGroup(BaseDataGroup):
 
         dataset = BaseDataSet.from_config({
             "dataset_id": "your_data_id",
-            "url": "",
+            "url": "https://github.com/TheB4ssPl4y3r/template-extension-new-dataset/blob/main/data/your_dataset.csv",
             "reference": "",
             "link": "",
             "license": "",
