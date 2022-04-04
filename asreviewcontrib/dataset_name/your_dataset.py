@@ -9,7 +9,7 @@ class YourDataGroup(BaseDataGroup):
 
         dataset = BaseDataSet.from_config({
             "dataset_id": "your_data_id",
-            "url": "https://raw.githubusercontent.com/TheB4ssPl4y3r/template-extension-new-dataset/main/data/your_dataset.ris",
+            "url": "https://raw.githubusercontent.com/TheB4ssPl4y3r/template-extension-new-dataset/main/data/your_dataset.ris?token=GHSAT0AAAAAABS4EABKOQHACJOCDVRI55IIYSK55SQ",
             "reference": "",
             "link": "",
             "license": "",
